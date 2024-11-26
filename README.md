@@ -1,11 +1,6 @@
 <p align="center">
   <img width="500" height="140" alt="CacheLib" src="website/static/img/CacheLib-Logo-Large-transp.png">
 </p>
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 53cea141196da96e8faecbac921805c6a9f4998b
 # CacheLib
 
 Pluggable caching engine to build and scale high performance cache services. See
@@ -32,10 +27,6 @@ See [CacheBench](https://cachelib.org/docs/Cache_Library_User_Guides/Cachebench_
 and examples.
 
 ## Versioning
-<<<<<<< HEAD
-=======
-
->>>>>>> 53cea141196da96e8faecbac921805c6a9f4998b
 CacheLib has one single version number `facebook::cachelib::kCachelibVersion` that can be located at [CacheVersion.h](https://github.com/facebook/CacheLib/blob/main/cachelib/allocator/CacheVersion.h#L31). This version number must be incremented when incompatible changes are introduced. A change is incompatible if it could cause a complication failure due to removing public API or requires dropping the cache. Details about the compatibility information when the version number increases can be found in the [changelog](https://github.com/facebook/CacheLib/blob/main/CHANGELOG.md).
 
 
