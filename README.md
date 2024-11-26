@@ -5,7 +5,7 @@
 # CacheLib
 
 Pluggable caching engine to build and scale high performance cache services. See
-[www.cachelib.org](https://cachelib.org) dsfgdsg
+[www.cachelib.org](https://cachelib.org)
 
 
 ## What is CacheLib ?
