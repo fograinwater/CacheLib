@@ -1,7 +1,7 @@
 <p align="center">
   <img width="500" height="140" alt="CacheLib" src="website/static/img/CacheLib-Logo-Large-transp.png">
 </p>
-# CacheLib
+## CacheLib
 
 Pluggable caching engine to build and scale high performance cache services. See
 [www.cachelib.org](https://cachelib.org) for documentation and more information.
